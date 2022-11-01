@@ -1,0 +1,52 @@
+[
+  {
+    "idProducto": 1,
+    "nombreProducto": "Rastrillo",
+    "codigoProducto": "GDN-0011",
+    "fecha": "Marzo 19, 2022",
+    "descripcion": "Rastrillo con agarradera de madera",
+    "precio": 5500,
+    "calificacion": 3.2,
+    "imagenUrl": "assets/images/leaf_rake.png"
+  },
+  {
+    "idProducto": 2,
+    "nombreProducto": "Carretillo",
+    "codigoProducto": "GDN-0023",
+    "fecha": "Marzo 18, 2022",
+    "descripcion": "Carretillo con capacidad de 15 galones",
+    "precio": 28000,
+    "calificacion": 4.2,
+    "imagenUrl": "assets/images/garden_cart.png"
+  },
+  {
+    "idProducto": 5,
+    "nombreProducto": "Martillo",
+    "codigoProducto": "TBX-0048",
+    "fecha": "Mayo 21, 2022",
+    "descripcion": "Martillo de acero",
+    "precio": 7000,
+    "calificacion": 4.8,
+    "imagenUrl": "assets/images/hammer.png"
+  },
+  {
+    "idProducto": 8,
+    "nombreProducto": "Sierra",
+    "codigoProducto": "TBX-0022",
+    "fecha": "Mayo 15, 2022",
+    "descripcion": "Sierra manual con cuchilla de 15 pulgadas",
+    "precio": 4500,
+    "calificacion": 3.7,
+    "imagenUrl": "assets/images/saw.png"
+  },
+  {
+    "idProducto": 10,
+    "nombreProducto": "Control X-box One",
+    "codigoProducto": "GMG-0042",
+    "fecha": "Octubre 15, 2018",
+    "descripcion": "Control para Xbox One color azúl",
+    "precio": 32000,
+    "calificacion": 4.6,
+    "imagenUrl": "assets/images/xbox-controller.jpg"
+  }
+]
