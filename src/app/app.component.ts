@@ -12,6 +12,7 @@ template:`
         <ul class='nav nav-pills'>
           <li><a class='nav-link' routerLinkActive='active' routerLink='/welcome'>Página de Bienvenida</a></li>
           <li><a class='nav-link' routerLinkActive='active' routerLink='/products'>Lista de Productos</a></li>
+          <li><a class='nav-link' routerLinkActive='active' href='http://localhost:59470/PG/Home1.aspx'>Ajax Controles</a></li>
         </ul>
     </nav>
     <div class='container'>
